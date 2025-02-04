@@ -44,7 +44,7 @@ Let's, Breaking In To Lock It Down.
 ![CCNA](https://img.shields.io/badge/CRTP-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)
 
 ## Certificates
-![CCNA](https://img.shields.io/badge/CRTP-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)(https://www.credly.com/users/mohamed-said-mekawy.c4cdc5d3)
+![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)(https://www.credly.com/users/mohamed-said-mekawy.c4cdc5d3)
 [![eJPT](https://img.shields.io/badge/Microsoft_ATP-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/security/business)
 [![C++ Black Hat for pen tester](https://img.shields.io/badge/SentinelOne-222222?logo=sentinelone&logoColor=white&style=for-the-badge)](http://codered.eccouncil.org/certificate/c9b72a6a-7d18-4c71-bb29-941e11a2da2e?logged=true)
 [![Cryptoanalysis in action](https://img.shields.io/badge/Carbon_Black-000000?logo=carbonblack&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/f9a1692b-ef7b-4d9d-a4e2-5e257fcd8f8d?logged=true)
