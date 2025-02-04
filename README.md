@@ -1,5 +1,5 @@
 # H0la Fr0m 0xMekawy
-![ME](0xMekawy is a penetration tester.jpg)
+![ME](0xMekawyisapenetrationtester.jpg)
 
 # About Me
 I am Mohamed Mekawy (0xMekawy), a dedicated cybersecurity professional with a deep passion for ethical hacking, penetration testing, and proactive security strategies. Currently pursuing a degree in Computers and Data Science major cybersecurity, I have developed a strong technical foundation that enables me to approach cybersecurity challenges with precision, analytical thinking, and a hacker’s mindset one that seeks to break security barriers to build stronger defenses.
