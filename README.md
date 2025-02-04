@@ -37,6 +37,8 @@ Let's, Breaking In To Lock It Down.
 [![Nmap](https://img.shields.io/badge/Nmap-4D4D4D?logo=nmap&logoColor=white&style=for-the-badge)](https://nmap.org/)
 [![Acunetix](https://img.shields.io/badge/Acunetix-900?logo=acunetix&logoColor=white&style=for-the-badge)](https://www.acunetix.com/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-1F3C68?logo=metasploit&logoColor=white&style=for-the-badge)](https://www.metasploit.com/)
+[![OpenVas](https://img.shields.io/badge/OpenVas-F57C00?logoColor=white&style=for-the-badge)](https://openvas.org/)
+[![Nexpose](https://img.shields.io/badge/Nexpose-5391FE?logoColor=white&style=for-the-badge)](https://www.rapid7.com/products/nexpose/)
 
 ## Cources
 ![eJPT](https://img.shields.io/badge/eJPT-F57C00?logo=offensive-security&logoColor=white&style=for-the-badge)
