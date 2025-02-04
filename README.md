@@ -39,22 +39,22 @@ Let's, Breaking In To Lock It Down.
 [![Metasploit](https://img.shields.io/badge/Metasploit-1F3C68?logo=metasploit&logoColor=white&style=for-the-badge)](https://www.metasploit.com/)
 
 ## Cources
-![eJPT](https://img.shields.io/badge/OSCP-F57C00?logo=offensive-security&logoColor=white&style=for-the-badge)
-![Security+](https://img.shields.io/badge/eWAPT-03A9F4?logo=elearnsecurity&logoColor=white&style=for-the-badge)
-![CCNA](https://img.shields.io/badge/CRTP-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)
+![eJPT](https://img.shields.io/badge/eJPT-F57C00?logo=offensive-security&logoColor=white&style=for-the-badge)
+![Security+](https://img.shields.io/badge/Security+-03A9F4?logo=elearnsecurity&logoColor=white&style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)
 
 ## Certificates
 ![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)(https://www.credly.com/users/mohamed-said-mekawy.c4cdc5d3)
-[![eJPT](https://img.shields.io/badge/Microsoft_ATP-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/security/business)
-[![C++ Black Hat for pen tester](https://img.shields.io/badge/SentinelOne-222222?logo=sentinelone&logoColor=white&style=for-the-badge)](http://codered.eccouncil.org/certificate/c9b72a6a-7d18-4c71-bb29-941e11a2da2e?logged=true)
-[![Cryptoanalysis in action](https://img.shields.io/badge/Carbon_Black-000000?logo=carbonblack&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/f9a1692b-ef7b-4d9d-a4e2-5e257fcd8f8d?logged=true)
-[![Wifi Ethical Hacking](https://img.shields.io/badge/Cisco_AMP_EDR-80880?logo=cisco&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/dbb3f03e-6cc9-4a4a-831d-2238f56ce1d8?logged=true)
-[![Pen testing with Netcat](https://img.shields.io/badge/Symantec-0066CC?logo=symantec&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/b5a8409f-cae8-424f-a298-20ca127d2efb?logged=true)
-[![Pen tesing with black arch](https://img.shields.io/badge/Trend_Micro-FF6600?logo=trendmicro&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/e2a95cc2-1f91-4783-9c9a-8daf28193a30?logged=true)
+[![eJPT](https://img.shields.io/badge/eJPT-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/security/business)
+[![C++ Black Hat for pen tester](https://img.shields.io/badge/C++Black_Hat_for_pen_tester-222222?logo=sentinelone&logoColor=white&style=for-the-badge)](http://codered.eccouncil.org/certificate/c9b72a6a-7d18-4c71-bb29-941e11a2da2e?logged=true)
+[![Cryptoanalysis in action](https://img.shields.io/badge/Cryptoanalysis_in_action-000000?logo=carbonblack&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/f9a1692b-ef7b-4d9d-a4e2-5e257fcd8f8d?logged=true)
+[![Wifi Ethical Hacking](https://img.shields.io/badge/Wifi_Ethical_Hacking-80880?logo=cisco&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/dbb3f03e-6cc9-4a4a-831d-2238f56ce1d8?logged=true)
+[![Pen testing with Netcat](https://img.shields.io/badge/Pentesting_with_Netcat-0066CC?logo=symantec&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/b5a8409f-cae8-424f-a298-20ca127d2efb?logged=true)
+[![Pen tesing with black arch](https://img.shields.io/badge/Pentesing_with_blackarch-FF6600?logo=trendmicro&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/e2a95cc2-1f91-4783-9c9a-8daf28193a30?logged=true)
 
 ## Links
 [![Medium](https://img.shields.io/badge/Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@mohamedsaidmekawy)
-[![@](https://img.shields.io/badge/BLOG-E11E23?logoColor=white&style=for-the-badge)](mohamedsaidmekawy@outlook.com)
+[![@](https://img.shields.io/badge/@-E11E23?logoColor=white&style=for-the-badge)](mohamedsaidmekawy@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mekawy0x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-mekawy-84602426b/)
 [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/Mekawy0x)
