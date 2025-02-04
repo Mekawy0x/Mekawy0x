@@ -1,3 +1,6 @@
+# H0la Fr0m 0xMekawy
+![ME](0xMekawy is a penetration tester.jpg)
+
 # About Me
 I am Mohamed Mekawy (0xMekawy), a dedicated cybersecurity professional with a deep passion for ethical hacking, penetration testing, and proactive security strategies. Currently pursuing a degree in Computers and Data Science major cybersecurity, I have developed a strong technical foundation that enables me to approach cybersecurity challenges with precision, analytical thinking, and a hacker’s mindset one that seeks to break security barriers to build stronger defenses.
 From the outset of my journey, I immersed myself in programming, networking, and system security, which provided me with a well-rounded understanding of cybersecurity. I began with core programming languages such as Java (OOP), Python, and PHP, which laid the groundwork for understanding system logic and software security. I pursued network security certifications, including CCNA, gaining proficiency in networking protocols, infrastructure security. 
