@@ -44,7 +44,7 @@ Let's, Breaking In To Lock It Down.
 ![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)
 
 ## Certificates
-![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)(https://www.credly.com/users/mohamed-said-mekawy.c4cdc5d3)
+[![CCNA](https://img.shields.io/badge/CCNA-B71C1C?logo=offensive-security&logoColor=white&style=for-the-badge)](https://www.credly.com/users/mohamed-said-mekawy.c4cdc5d3)
 [![eJPT](https://img.shields.io/badge/eJPT-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/security/business)
 [![C++ Black Hat for pen tester](https://img.shields.io/badge/C++Black_Hat_for_pen_tester-222222?logo=sentinelone&logoColor=white&style=for-the-badge)](http://codered.eccouncil.org/certificate/c9b72a6a-7d18-4c71-bb29-941e11a2da2e?logged=true)
 [![Cryptoanalysis in action](https://img.shields.io/badge/Cryptoanalysis_in_action-000000?logo=carbonblack&logoColor=white&style=for-the-badge)](https://codered.eccouncil.org/certificate/f9a1692b-ef7b-4d9d-a4e2-5e257fcd8f8d?logged=true)
@@ -54,7 +54,7 @@ Let's, Breaking In To Lock It Down.
 
 ## Links
 [![Medium](https://img.shields.io/badge/Medium-FFFFFF?logo=medium&logoColor=black&style=for-the-badge)](https://medium.com/@mohamedsaidmekawy)
-[![@](https://img.shields.io/badge/@-E11E23?logoColor=white&style=for-the-badge)](mohamedsaidmekawy@outlook.com)
+[![@](https://img.shields.io/badge/Outlook-E11E23?logoColor=white&style=for-the-badge)](mohamedsaidmekawy@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mekawy0x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-mekawy-84602426b/)
 [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/Mekawy0x)
