@@ -9,9 +9,11 @@ My interest in low-level security and exploit development has led me to study st
 I have gained insights into Blue Team operations, proactive security strategies, and incident response, enabling me to contribute effectively to both attack and defense aspects of cybersecurity. I am committed to identifying weaknesses before malicious actors do leveraging penetration testing, ethical hacking, and proactive security strategies to strengthen digital infrastructures. 
 Let's, Breaking In To Lock It Down.
 
-## Cybersecurity student@Faculty of computers and data science, Alexandria university
-- Learn the fundamentals of computer science and gain a broad understanding of various cybersecurity domains. Explore specialized modules and subjects within each field, including Secure Coding, Secure Software Design, Mobile Application Security, Web Application Security, Network (LAN-WAN) Security, IoT Security, and Operating System Security.
-- Acquire foundational knowledge of data science tools to facilitate seamless integration with security systems. Leverage these capabilities for advanced applications such as malware analysis, bug bounty enumeration, CVE mitigation, and dark web monitoring.
+## Offensive Security Engineer
+Aspiring cybersecurity specialist with two years of hands on experience in web and network security assessments. Skilled in penetration testing, vulnerability assessment, and exploit development, with
+practical experience conducting real-world security tests for a top logistics company in Egypt. Active in CTFs like CyShield, Hack The Box, TryHackMe. Studied Security+ and eJPT concepts,
+demonstrating a strong commitment to continuous learning and ethical hacking. Confident, relentless, and ready to take on the toughest cybersecurity challenges, competing at the highest level
+to outsmart evolving threats.
 
 ## Skills
 - Network Penetration Testing
